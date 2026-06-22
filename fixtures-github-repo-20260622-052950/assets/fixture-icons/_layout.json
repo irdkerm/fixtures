@@ -1,0 +1,14 @@
+{
+  "icon_width_px": 96,
+  "icon_height_px": 36,
+  "vs_width_px": 42,
+  "vs_height_px": 36,
+  "gap_between_team_icon_and_vs_px": 2,
+  "score_strip_width_px": 238,
+  "font_family_used_for_raster_assets": "InterDisplay-Bold",
+  "notes": [
+    "Use a 2px horizontal gap between home icon, VS box, and away icon to match the tight broadcast-style reference spacing.",
+    "All team codes were re-rendered from scratch with identical font, size, and visual-centre placement.",
+    "VS.png is intended to be used between two team tiles without stretching."
+  ]
+}
